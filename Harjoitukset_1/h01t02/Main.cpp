@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Header.h"
+#include "header.h"
 
 int main(){
 	const int LUKUMAARA = 5;
